@@ -2,7 +2,7 @@
 
 #### Used internally for JFrog use
 
-a POC that became useful 
+a POC that became useful, since icomoon does not provide any api.
 
 This will -
 1. log into icomoon
